@@ -19,13 +19,15 @@
 
 body{
     background-color: hsl(30, 54%, 90%);
+
 }
 
 .container{
     /* border: 2px solid red; */
     border-radius: 10px;
-    width: 490px;
-    min-width: 300px;
+    /* width: 360px; */
+    width: 25%;
+    min-width: 290px;
     margin: 50px auto;
     padding: 20px;
     background-color: white;
